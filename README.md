@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Krishna</h1>
 <h3 align="center">A passionate FullStack Developer</h3>
-<img src="banner.jpeg" height="200px">
+<img align="center" src="banner.jpeg" height="200px">
 My name is Jonnalagadda Venkata Sathya Krishna, Call me as Krishna 😀.I am a 4th Year Student at IIIT Kottayam pursuing my Bachelor's Degree in Computer Science and Engineering. I like to code things from scratch, and enjoy bringing ideas to life in the browser. I am a Web Developer, Data Science and Cloud Developer. I love playing around with web design and models with my data science Knowledge and hopefully creating something that makes people smile. Check out my portfolio here
 
 
