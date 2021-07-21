@@ -5,16 +5,6 @@
 <h3 align="center">A passionate FullStack Developer</h3>
 <img align="center" src="banner.jpeg" height="200px">
 My name is Jonnalagadda Venkata Sathya Krishna, Call me as Krishna 😀.I am a 4th Year Student at IIIT Kottayam pursuing my Bachelor's Degree in Computer Science and Engineering. I like to code things from scratch, and enjoy bringing ideas to life in the browser. I am a Web Developer, Data Science and Cloud Developer. I love playing around with web design and models with my data science Knowledge and hopefully creating something that makes people smile. Check out my portfolio here
-<a href="https://www.linkedin.com/in/sathya-krishna-2001/">
-  <img align="left" alt="akd's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/krishna13052001">
-  <img align="left" alt="akd's Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/">
-  <img align="left" alt="akd's Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
 <br><br>
 
 
@@ -37,6 +27,13 @@ My name is Jonnalagadda Venkata Sathya Krishna, Call me as Krishna 😀.I am a 4
 <a href="https://twitter.com/jvskrishna1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jvskrishna1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sathya-krishna-2001/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sathya-krishna-2001/" height="30" width="40" /></a>
 </p>
+<a href="https://www.linkedin.com/in/sathya-krishna-2001/">
+  <img align="left" alt="akd's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/krishna13052001">
+  <img align="left" alt="akd's Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
+</a>
+
 <span>
 <img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/c.svg" alt="drawing" width="50"/>
 <img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/python-5.svg" alt="drawing" width="50"/>
