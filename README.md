@@ -4,7 +4,7 @@
 
 <h3 align="center">A passionate FullStack Developer</h3>
 <img align="center" src="banner.jpeg" height="200px">
-My name is Jonnalagadda Venkata Sathya Krishna, Call me as Krishna 😀.I am working as Software Engineer I at tekion, and i had completed my bachelor's at IIIT Kottayam in Computer Science and Engineering. I like to code things from scratch, and enjoy bringing ideas to life in the browser. I am a Backend Developer working on the Golang, python, Mongodb and AWS. I love building websites in django and i also work on the NLP and CNNs with my data science Knowledge and hopefully creating something that makes people smile. Check out my portfolio here
+My name is Jonnalagadda Venkata Sathya Krishna, Call me as Krishna 😀.I am working as Member of Technical Staff at Aviatrix, previously worked as Software Engineer I at Tekion, and I had completed my bachelor's at IIIT Kottayam in Computer Science and Engineering. I like to code things from scratch, and enjoy bringing ideas to life in the browser. I am a Backend Developer working on the Golang, Python, MongoDB, Postgres and AWS. I love building websites in django and i also work on the NLP and CNNs with my data science Knowledge and hopefully creating something that makes people smile. Check out my portfolio here
 <br><br>
 
 
