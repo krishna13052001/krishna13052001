@@ -26,12 +26,12 @@
 - AI/ML integration in software development
 
 📫 **How to Reach Me**
-- Email: [krishna13052001@gmail.com](mailto:krishna13052001@gmail.com)
-- LinkedIn: [Krishna Kumar](https://www.linkedin.com/in/krishna-kumar-088496222/)
+- Email: [jvsathyakrishna@gmail.com](mailto:jvsathyakrishna@gmail.com)
+- LinkedIn: [Sathya Krishna](https://www.linkedin.com/in/sathya-krishna-2001/)
 - Portfolio: [My Website](https://krishna13052001.github.io/)
 
 📄 **Resume**
-- [View My Resume](https://drive.google.com/file/d/1u7HXqy4t3vWjKt7Bx8fZ9mN2pQ5rS6tU/view?usp=sharing)
+- [View My Resume](https://drive.google.com/file/d/1WM_CHwzHmmnCQAcGly343ST7WBVsfavx/view?usp=sharing)
 
 ⚡ **Fun Facts**
 - I love exploring new technologies and contributing to open source
