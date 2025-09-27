@@ -17,7 +17,6 @@
 - Gateway simulator enhancements
 
 📫 **How to Reach Me**
-- Personal: jvsathyakrishna18bcs@iiitkottayam.ac.in
 - Professional: jvsathyakrishna@gmail.com
 
 📄 **Know about my experience**
